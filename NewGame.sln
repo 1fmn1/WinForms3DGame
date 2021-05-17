@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NewGame", "NewGame\NewGame.vbproj", "{72AD3BFF-19F4-4CFB-B3E0-483276EF34FD}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://sole-nero.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = NewGame\\NewGame.vbproj
+		SccProjectName1 = NewGame
+		SccLocalPath1 = NewGame
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72AD3BFF-19F4-4CFB-B3E0-483276EF34FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72AD3BFF-19F4-4CFB-B3E0-483276EF34FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72AD3BFF-19F4-4CFB-B3E0-483276EF34FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72AD3BFF-19F4-4CFB-B3E0-483276EF34FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
